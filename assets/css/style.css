@@ -2,31 +2,33 @@
     font-family: 'Courier New', Courier, monospace;
     margin: auto;
     border: 0px;
-    background-color: black;
+    background-color: rgb(29, 7, 7);
     color: #d3d3c0;
 
 
 }
-div {
 
-    display: block;
+div {
+    align-items: center;
+ display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 
 }
-.links
-{
+
+.links {
     text-decoration: none;
     border: none;
-color: #d3d3c0;
+    color: #d3d3c0;
 
 
 
 
 }
-a:hover{
 
-color: red;
+a:hover {
+
+    color: red;
 
 }
